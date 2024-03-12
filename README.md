@@ -3,7 +3,7 @@ Elzero Website built with HTML and CSS.
 
 ## Website Preview
 <p align="center">
-    <a href="https://alimoustafa2000.github.io/LEON-Website/" target="_blank"><img src="images/Preview-01.jpg" alt="Website Preview"></a>
+    <a href="https://alimoustafa2000.github.io/Elzero-Website/" target="_blank"><img src="images/Preview-01.jpg" alt="Website Preview"></a>
 </p>
 
 ## Features 📋
