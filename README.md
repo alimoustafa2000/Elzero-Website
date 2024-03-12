@@ -4,7 +4,7 @@ Elzero Website built with HTML and CSS.
 ## Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://alimoustafa2000.github.io/LEON-Website/" target="_blank"><img src="images/LEON Preview-01.jpg" alt="Website Preview">
+    <a href="https://alimoustafa2000.github.io/Elzero-Website/" target="_blank"><img src="images/LEON Preview-01.jpg" alt="Website Preview">
   </a>
   </kbd>
 </p>
@@ -30,4 +30,4 @@ Elzero Website built with HTML and CSS.
 ✔️ Our Awesome Stats\
 ✔️ Discount\
 
-To view a live example, **[click here](https://alimoustafa2000.github.io/LEON-Website/)**
+To view a live example, **[click here](https://alimoustafa2000.github.io/Elzero-Website/)**
