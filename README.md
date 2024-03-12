@@ -25,6 +25,6 @@ Elzero Website built with HTML and CSS.
 ✔️ Pricing Plans\
 ✔️ TOP VIDEOS\
 ✔️ Our Awesome Stats\
-✔️ Discount\
+✔️ Discount
 
 To view a live example, **[click here](https://alimoustafa2000.github.io/Elzero-Website/)**
